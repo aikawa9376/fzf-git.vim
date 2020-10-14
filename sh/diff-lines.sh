@@ -1,6 +1,5 @@
 #!/bin/sh
 # diff-lines.sh
-numbers
 path=
 line=
 while read; do
