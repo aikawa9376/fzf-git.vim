@@ -1,5 +1,0 @@
-*fzf_git_vim.txt*	Text objects for a range forward a character.
-
-Version: 0.1.0
-Author : aikawa
-License: zlib License
